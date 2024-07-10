@@ -1,3 +1,13 @@
+# IntelliJ IDEA
+.idea/
+out/
+*.iml
+*.iws
+*.ipr
+
+# IntelliJ IDEA plugins or additional settings
+.idea_modules/
+
 # Compiled class file
 *.class
 
